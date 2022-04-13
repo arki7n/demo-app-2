@@ -11,6 +11,7 @@ POST /update-food-order
 2. Creating Folder structure for API
 ------------------------------------
 
+```
 src
 	server.js --> setting up server
 	route---> api endpoints
@@ -23,6 +24,8 @@ src
 	utils
 	auth	--> middleware related logics
 				
+
+````
 	
 
 webpack.config --> to build optimized build files. // serverless
